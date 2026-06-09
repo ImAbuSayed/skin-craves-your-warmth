@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-craves-your-warmth/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Skin Craves Your Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-craves-your-warmth/) |
+| **Get License** | [License this song: Skin Craves Your Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-craves-your-warmth/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning in the dark
+> Every breath you take is striking up a spark
+> Pulling me closer to the edge of the flame
+> Skin craves your warmth, calling your name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
